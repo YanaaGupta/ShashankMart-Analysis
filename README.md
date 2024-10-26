@@ -1,4 +1,4 @@
-ShashankMart-Analysis
+# ShashankMart Analysis
 E-commerce Analytics Challenge: Understanding Customer Behavior and Business Performance
 
 Analysing the data at "ShashankMart,
