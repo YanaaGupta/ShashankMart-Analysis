@@ -6,12 +6,12 @@ An e-commerce platform that sells products across various categories. The compan
 
 # AVAILABLE DATA:
 You have access to three datasets:
-1. customers.csv:
-○ customer_id: Unique identifier for each customer
-○ age_group: Customer age group (18-24, 25-34, 35-44, 45-54, 55+)
-○ location: Geographic region (North, South, East, West, Central)
-○ membership_type: Customer loyalty tier (Bronze, Silver, Gold, Platinum)
-○ signup_date: Date when the customer joined the platform
+## 1. customers.csv:
+1. customer_id: Unique identifier for each customer
+2. age_group: Customer age group (18-24, 25-34, 35-44, 45-54, 55+)
+3. location: Geographic region (North, South, East, West, Central)
+4. membership_type: Customer loyalty tier (Bronze, Silver, Gold, Platinum)
+5. signup_date: Date when the customer joined the platform
 
 2. products.csv:
 ○ product_id: Unique identifier for each product
